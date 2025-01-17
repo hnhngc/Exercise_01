@@ -14,18 +14,12 @@ Xây dựng dịch vụ này và kết nối với cơ sở dữ liệu **World 
 
 #### Bước 1: Chuẩn Bị Cơ Sở Dữ Liệu
 1. **Tạo Cơ Sở Dữ Liệu (World Database)**:
-    - Sử dụng một cơ sở dữ liệu mẫu như **World Database** (tải về từ các nguồn trực tuyến nếu cần).
+    - Sử dụng một cơ sở dữ liệu mẫu như **World Database**.
     - Cơ sở dữ liệu này bao gồm các bảng như **Countries** và **Cities**, chứa thông tin về các quốc gia và thành phố.
-
-    Ví dụ cấu trúc bảng:
-    - **Countries**: chứa các thông tin về quốc gia (id, name, code, continent, population).
-    - **Cities**: chứa thông tin về thành phố (id, name, country_id, population).
-
-    Bạn có thể tạo cơ sở dữ liệu và các bảng này trong **SQL Server Management Studio (SSMS)** hoặc **SQL Server Express**.
-
 #### Bước 2: Cấu Hình Kết Nối Cơ Sở Dữ Liệu
 1. **Thêm Connection String**:
-    - Trong **Web.config** của dự án Web Service, thêm **connection string** để kết nối với cơ sở dữ liệu:
+    - Trong **Web.config** của dự án Web Service, thêm **connection string** để kết nối với cơ sở dữ liệu
+  
 2. **Cài Đặt SQL Server**:
     - Đảm bảo rằng SQL Server đang chạy và có thể truy cập được từ dự án.
     - Kiểm tra lại kết nối để đảm bảo rằng các truy vấn có thể chạy đúng.
