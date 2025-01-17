@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Ngoc\\Downloads\\DB_WS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA8F54B-B2DE-4CE9-9AB5-5D11284BE89B}|DB_WS\\DS_WS.csproj|c:\\users\\huynh ngoc\\downloads\\db_ws\\db_ws\\db\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA8F54B-B2DE-4CE9-9AB5-5D11284BE89B}|DB_WS\\DS_WS.csproj|solutionrelative:db_ws\\db\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA8F54B-B2DE-4CE9-9AB5-5D11284BE89B}|DB_WS\\DS_WS.csproj|c:\\users\\huynh ngoc\\downloads\\db_ws\\db_ws\\api\\cityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA8F54B-B2DE-4CE9-9AB5-5D11284BE89B}|DB_WS\\DS_WS.csproj|solutionrelative:db_ws\\api\\cityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityWS.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Ngoc\\Downloads\\DB_WS\\DB_WS\\api\\CityWS.asmx.cs",
+              "RelativeDocumentMoniker": "DB_WS\\api\\CityWS.asmx.cs",
+              "ToolTip": "C:\\Users\\Huynh Ngoc\\Downloads\\DB_WS\\DB_WS\\api\\CityWS.asmx.cs",
+              "RelativeToolTip": "DB_WS\\api\\CityWS.asmx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:39:43.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Ngoc\\Downloads\\DB_WS\\DB_WS\\db\\CityRepository.cs",
+              "RelativeDocumentMoniker": "DB_WS\\db\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Huynh Ngoc\\Downloads\\DB_WS\\DB_WS\\db\\CityRepository.cs",
+              "RelativeToolTip": "DB_WS\\db\\CityRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAASwHEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:33:46.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
